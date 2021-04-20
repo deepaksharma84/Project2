@@ -1,2 +1,3 @@
 print("Ex2 file")
-print("Second Line in ex1")
+print("Second Line in ex2")
+print("Third Line in ex2")
